@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Fernando, I'm a Fullstack Developer in Angular y Java Spring Boot. Also I'm a student in Electronics Engineer at UTN FRBA.
+My name is Fernando, I'm a Fullstack Developer in Angular y Java Spring Boot. I'm also an advanced student of Electronic Engineering at UTN FRBA.
 
 <!--
 **fcascan/fcascan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
